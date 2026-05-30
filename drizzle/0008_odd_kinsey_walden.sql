@@ -1,1 +1,0 @@
-ALTER TABLE `posts` MODIFY COLUMN `category` enum('釣果記録','タックル','テクニック','フィールド','その他') NOT NULL DEFAULT '釣果記録';
