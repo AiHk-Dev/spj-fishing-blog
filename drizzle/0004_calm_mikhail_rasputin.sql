@@ -1,0 +1,1 @@
+ALTER TABLE `comments` ADD `isVerifiedMember` boolean DEFAULT false NOT NULL;
